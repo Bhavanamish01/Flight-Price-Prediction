@@ -12,11 +12,11 @@
 
 
 ## Demo
-Link: [https://murmuring-peak-45533.herokuapp.com/](https://murmuring-peak-45533.herokuapp.com/)
+Link: [https://intense-island-67049.herokuapp.com/](https://intense-island-67049.herokuapp.com/)
 
-[![](https://i.imgur.com/R1g2wvC.png)](https://murmuring-peak-45533.herokuapp.com/)
+[![](https://i.imgur.com/5K05LF4.jpg)](https://intense-island-67049.herokuapp.com/)
 
-[![](https://i.imgur.com/p0aeL6c.png)](https://murmuring-peak-45533.herokuapp.com/)
+[![](https://i.imgur.com/3tBtpxO.jpg)](https://intense-island-67049.herokuapp.com/)
 
 ## Overview
 This is a Flask web app which predicts fare of Flight ticket.
@@ -60,7 +60,7 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 
 ## Bug / Feature Request
 
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/pratyushtiwary/Flight-Price-Prediction/issues) here by including your search query and the expected result
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/Bhavanamish01/Flight-Price-Prediction/issues) here by including your search query and the expected result
 
 ## Future Scope
 
